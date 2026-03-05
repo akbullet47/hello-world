@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{ cout << "Hello world" << endl;
+int main()  // starting of a function.
+{ cout << "Hello world" << endl;  // all of these will be print on the screen.
 
     cout << "Enter your name" << endl;
     cout << "Enter your registration number" << endl;
@@ -18,3 +18,4 @@ int main()
     cout << "I completely understand why you'd want that." << endl;
 
 }
+
