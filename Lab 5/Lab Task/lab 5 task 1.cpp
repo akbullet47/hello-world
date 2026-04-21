@@ -1,5 +1,5 @@
-                // Name : Zaid rauf
-                // Etea ID :01477/740
+                // Name : Abbas fazal
+                // Etea ID :5120321/ 0713
                 // section : A 
                 // departement : ELECTRICAL POWER
 
